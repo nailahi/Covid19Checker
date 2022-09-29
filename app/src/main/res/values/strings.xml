@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment8</string>
+    <string name="state">State</string>
+    <string name="stateE">State</string>
+    <string name="get">Get</string>
+    <string name="stateD">State</string>
+    <string name="positive">Positive</string>
+    <string name="death">Death</string>
+    <string name="hospitalised_currently">Hospitalised Currently</string>
+    <string name="date_checked">Date Checked</string>
+    <string name="stateselect">stateSelect</string>
+</resources>
